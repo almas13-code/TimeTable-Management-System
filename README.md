@@ -191,17 +191,6 @@ Run the `Main.java` file to start the application.
 
 ---
 
-# 👥 Team Members
-
-- Sumayya Kabeer
-- Almas S
-- Abhishek Baburajan
-- Muhammad Zeshan Subair
-- Irfan Sainudeen
-- Manit Soni
-
----
-
 # 🎓 Academic Information
 
 **Course:** Object Oriented Programming  
