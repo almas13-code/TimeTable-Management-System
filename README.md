@@ -206,7 +206,7 @@ Run the `Main.java` file to start the application.
 
 ---
 
-# 📜 License
+# License
 
 This project is developed for academic and educational purposes.
 
