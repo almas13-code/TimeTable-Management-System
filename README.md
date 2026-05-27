@@ -197,14 +197,6 @@ Run the `Main.java` file to start the application.
 **Institution:** BITS Pilani Dubai Campus
 
 ---
-# Future Enhancements
-
-- Cloud database integration
-- Advanced timetable conflict detection
-- Multi-user support
-- Improved UI/UX design
-
----
 
 # License
 
