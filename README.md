@@ -4,7 +4,7 @@
 
 ---
 
-# 📖 Abstract
+# Abstract
 
 The TimeTable Management System is a Java-based desktop application created to simplify and automate timetable organization for educational institutions. The project provides a user-friendly graphical interface where users can securely manage timetable schedules, edit entries, import/export CSV files, and generate PDF reports.
 
@@ -12,7 +12,7 @@ The system is designed using Java Swing for the graphical user interface and MyS
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - To automate timetable management processes
 - To provide secure user authentication
@@ -23,9 +23,9 @@ The system is designed using Java Swing for the graphical user interface and MyS
 
 ---
 
-# ⚙️ System Features
+# System Features
 
-## 🔐 Secure Authentication
+## Secure Authentication
 
 - User login authentication system
 - MySQL-based credential verification
@@ -34,7 +34,7 @@ The system is designed using Java Swing for the graphical user interface and MyS
 
 ---
 
-## 🗂️ Timetable Management
+## Timetable Management
 
 - Create timetable entries
 - Edit timetable schedules
@@ -43,7 +43,7 @@ The system is designed using Java Swing for the graphical user interface and MyS
 
 ---
 
-## 📄 CSV File Handling
+## CSV File Handling
 
 - Import timetable information from CSV files
 - Export timetable data into CSV format
@@ -51,7 +51,7 @@ The system is designed using Java Swing for the graphical user interface and MyS
 
 ---
 
-## 🖨️ PDF Export Functionality
+## PDF Export Functionality
 
 - Generate timetable reports in PDF format
 - Printable timetable output
@@ -59,7 +59,7 @@ The system is designed using Java Swing for the graphical user interface and MyS
 
 ---
 
-## 🖥️ Graphical User Interface
+## Graphical User Interface
 
 - Built using Java Swing
 - User-friendly interface
@@ -68,9 +68,9 @@ The system is designed using Java Swing for the graphical user interface and MyS
 
 ---
 
-# 🚀 Technical Implementation
+# Technical Implementation
 
-## 🏗️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -82,27 +82,27 @@ The system is designed using Java Swing for the graphical user interface and MyS
 
 ---
 
-# 🧠 OOP Concepts Utilized
+# OOP Concepts Utilized
 
-## 🔒 Encapsulation
+## Encapsulation
 
 Data members are protected and accessed through methods to ensure data security and controlled access.
 
-## 🧬 Inheritance
+## Inheritance
 
 GUI classes inherit properties from Java Swing components like JFrame.
 
-## 🔄 Polymorphism
+## Polymorphism
 
 Method overriding is used across multiple classes for flexible implementation.
 
-## 🎭 Abstraction
+## Abstraction
 
 Authentication handling, CSV operations, and timetable logic are separated into different classes to hide implementation complexity.
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```bash
 TimeTable-Management-System
@@ -128,7 +128,7 @@ TimeTable-Management-System
 
 ---
 
-# 🛠️ How to Run the Project
+# How to Run the Project
 
 ## Step 1: Clone the Repository
 
@@ -170,7 +170,7 @@ Run the `Main.java` file to start the application.
 
 ---
 
-# 📌 Advantages of the System
+# Advantages of the System
 
 - Reduces manual timetable management effort
 - Easy timetable editing and organization
@@ -181,7 +181,7 @@ Run the `Main.java` file to start the application.
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
 - Cloud database integration
 - Multi-user timetable synchronization
@@ -191,13 +191,13 @@ Run the `Main.java` file to start the application.
 
 ---
 
-# 🎓 Academic Information
+#  Academic Information
 
 **Course:** Object Oriented Programming  
 **Institution:** BITS Pilani Dubai Campus
 
 ---
-# 📌 Future Enhancements
+# Future Enhancements
 
 - Cloud database integration
 - Advanced timetable conflict detection
